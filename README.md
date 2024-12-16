@@ -2,7 +2,7 @@
 
 > Your AI-powered dev team that turns ideas into deployed products in minutes.
 
-[![GitHub stars](https://img.shields.io/github/stars/buildpush/buildpush)](https://github.com/buildpush/buildpush/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/buildpush/buildpush)](https://github.com/wrannaman/buildpushh/stargazers)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## ✨ Magic at Your Fingertips
